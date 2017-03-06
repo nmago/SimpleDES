@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9662fba1-5b99-49a7-ad11-aa8af2f37d11" name="Default" comment="Implemented class for generate round keys" />
+    <list default="true" id="9662fba1-5b99-49a7-ad11-aa8af2f37d11" name="Default" comment="Implemented class for generate round keys">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +21,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/nmago/crypt/sdes/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="153">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -71,8 +73,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/ru/nmago/crypt/sdes/sdesMaker.java" />
         <option value="$PROJECT_DIR$/src/ru/nmago/crypt/sdes/SDESMaker.java" />
-        <option value="$PROJECT_DIR$/src/ru/nmago/crypt/sdes/Main.java" />
         <option value="$PROJECT_DIR$/src/ru/nmago/crypt/sdes/SDESKeyGen.java" />
+        <option value="$PROJECT_DIR$/src/ru/nmago/crypt/sdes/Main.java" />
       </list>
     </option>
   </component>
@@ -370,12 +372,20 @@
       <option name="presentableId" value="Default" />
       <updated>1488801187284</updated>
       <workItem from="1488801189076" duration="8050000" />
-      <workItem from="1488814334668" duration="2100000" />
+      <workItem from="1488814334668" duration="2889000" />
     </task>
+    <task id="LOCAL-00001" summary="Test ok">
+      <created>1488818478922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1488818478922</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10150000" />
+    <option name="totallyTimeSpent" value="10939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -414,7 +424,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Implemented class for generate round keys" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented class for generate round keys" />
+    <MESSAGE value="Test ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test ok" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -471,8 +482,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/nmago/crypt/sdes/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding />
         </state>
       </provider>
